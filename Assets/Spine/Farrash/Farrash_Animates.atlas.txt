@@ -1,0 +1,195 @@
+
+Farrash_Animates.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHeshm baste
+  rotate: false
+  xy: 704, 711
+  size: 126, 34
+  orig: 126, 34
+  offset: 0, 0
+  index: -1
+PA L 3
+  rotate: true
+  xy: 496, 507
+  size: 162, 137
+  orig: 162, 137
+  offset: 0, 0
+  index: -1
+SHISHE EYNAK
+  rotate: true
+  xy: 424, 203
+  size: 184, 55
+  orig: 184, 55
+  offset: 0, 0
+  index: -1
+abroo L
+  rotate: false
+  xy: 401, 31
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+abroo R
+  rotate: false
+  xy: 507, 152
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 2, 428
+  size: 324, 497
+  orig: 324, 497
+  offset: 0, 0
+  index: -1
+cheshm  L1
+  rotate: true
+  xy: 832, 734
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cheshm R 2
+  rotate: true
+  xy: 832, 734
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cheshm L
+  rotate: true
+  xy: 977, 732
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+cheshm R
+  rotate: false
+  xy: 595, 672
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+damagh
+  rotate: false
+  xy: 507, 89
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+dast L 1
+  rotate: false
+  xy: 328, 389
+  size: 157, 123
+  orig: 157, 123
+  offset: 0, 0
+  index: -1
+dast L 2
+  rotate: false
+  xy: 292, 19
+  size: 107, 191
+  orig: 107, 191
+  offset: 0, 0
+  index: -1
+dast L 4
+  rotate: false
+  xy: 704, 747
+  size: 142, 178
+  orig: 142, 178
+  offset: 0, 0
+  index: -1
+dast R 1
+  rotate: false
+  xy: 401, 89
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+dast R 2
+  rotate: false
+  xy: 328, 514
+  size: 166, 155
+  orig: 166, 155
+  offset: 0, 0
+  index: -1
+dast R 3
+  rotate: false
+  xy: 595, 711
+  size: 107, 214
+  orig: 107, 214
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 328, 671
+  size: 265, 254
+  orig: 265, 254
+  offset: 0, 0
+  index: -1
+jaroo 1
+  rotate: true
+  xy: 2, 2
+  size: 424, 288
+  orig: 424, 288
+  offset: 0, 0
+  index: -1
+jaroo 2
+  rotate: false
+  xy: 2, 927
+  size: 900, 80
+  orig: 900, 80
+  offset: 0, 0
+  index: -1
+pa L 1
+  rotate: false
+  xy: 481, 210
+  size: 128, 60
+  orig: 128, 60
+  offset: 0, 0
+  index: -1
+pa L 2
+  rotate: false
+  xy: 292, 212
+  size: 130, 175
+  orig: 130, 175
+  offset: 0, 0
+  index: -1
+pa R 1
+  rotate: false
+  xy: 848, 732
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+pa R 2
+  rotate: true
+  xy: 848, 794
+  size: 131, 174
+  orig: 131, 174
+  offset: 0, 0
+  index: -1
+pa R 3
+  rotate: false
+  xy: 487, 362
+  size: 156, 143
+  orig: 156, 143
+  offset: 0, 0
+  index: -1
+sibil L
+  rotate: false
+  xy: 481, 272
+  size: 138, 88
+  orig: 138, 88
+  offset: 0, 0
+  index: -1
+sibil R
+  rotate: true
+  xy: 904, 930
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1

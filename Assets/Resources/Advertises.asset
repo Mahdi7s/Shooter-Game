@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e07c4e20db00ce44d846e8317d3c9cfe, type: 3}
+  m_Name: Advertises
+  m_EditorClassIdentifier: 
+  AdvertiseProviderKeys:
+  - _advertiseProvider: 2
+    _key: rjcjirkqlltbaocpljoiejoqogochpnjobistafrpqpqmssltdppfatomonhajntodshaj
+  - _advertiseProvider: 1
+    _key: AALVH8ZUUAPPII18LXDNVAKYSVWAGQ
+  AdvertiseProviders:
+  - _advertiseProvider: 2
+    _advertiseType: 1
+    _advertiseAction: 2
+    _unitCode: 5b8b74b5c19d6d000197df89
+    _advertiseOrder: 1
+    _isActive: 1
+  - _advertiseProvider: 2
+    _advertiseType: 1
+    _advertiseAction: 1
+    _unitCode: 5b8b81396528ee0001f4b4a5
+    _advertiseOrder: 1
+    _isActive: 1
+  - _advertiseProvider: 2
+    _advertiseType: 1
+    _advertiseAction: 3
+    _unitCode: 5b9f6f08e2226d00012bea19
+    _advertiseOrder: 1
+    _isActive: 1
+  - _advertiseProvider: 2
+    _advertiseType: 1
+    _advertiseAction: 4
+    _unitCode: 5c234ff9c42ace0001c0d0d1
+    _advertiseOrder: 1
+    _isActive: 1

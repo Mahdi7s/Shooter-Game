@@ -1,0 +1,146 @@
+
+Lat_zanjiri.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abroo
+  rotate: false
+  xy: 957, 490
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: false
+  xy: 1867, 651
+  size: 116, 82
+  orig: 116, 82
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 2, 453
+  size: 557, 569
+  orig: 557, 569
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 1535, 735
+  size: 287, 388
+  orig: 287, 388
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: true
+  xy: 561, 426
+  size: 278, 394
+  orig: 278, 394
+  offset: 0, 0
+  index: -1
+daman
+  rotate: false
+  xy: 561, 706
+  size: 590, 316
+  orig: 590, 316
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1400, 477
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: true
+  xy: 1925, 735
+  size: 165, 78
+  orig: 165, 78
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 885, 196
+  size: 228, 214
+  orig: 228, 214
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 1153, 699
+  size: 323, 380
+  orig: 323, 380
+  offset: 0, 0
+  index: -1
+kolah
+  rotate: false
+  xy: 559, 146
+  size: 324, 278
+  orig: 324, 278
+  offset: 0, 0
+  index: -1
+pa
+  rotate: false
+  xy: 2, 72
+  size: 340, 379
+  orig: 340, 379
+  offset: 0, 0
+  index: -1
+plk
+  rotate: true
+  xy: 1400, 505
+  size: 192, 125
+  orig: 192, 125
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: true
+  xy: 885, 2
+  size: 192, 125
+  orig: 192, 125
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: true
+  xy: 1012, 2
+  size: 192, 125
+  orig: 192, 125
+  offset: 0, 0
+  index: -1
+saed
+  rotate: true
+  xy: 1535, 503
+  size: 230, 330
+  orig: 230, 330
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: false
+  xy: 344, 127
+  size: 213, 324
+  orig: 213, 324
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 1149, 452
+  size: 249, 245
+  orig: 249, 245
+  offset: 0, 0
+  index: -1
+sebil
+  rotate: false
+  xy: 957, 568
+  size: 190, 136
+  orig: 190, 136
+  offset: 0, 0
+  index: -1
+sebil2
+  rotate: false
+  xy: 1925, 902
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1

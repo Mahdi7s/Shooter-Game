@@ -1,0 +1,216 @@
+
+Guitarist.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheshm1
+  rotate: false
+  xy: 1569, 65
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+cheshm2
+  rotate: true
+  xy: 1675, 133
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+cheshm3
+  rotate: false
+  xy: 1758, 168
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+gitar
+  rotate: false
+  xy: 2, 220
+  size: 612, 290
+  orig: 612, 290
+  offset: 0, 0
+  index: -1
+jeloye mo
+  rotate: false
+  xy: 1053, 276
+  size: 295, 234
+  orig: 295, 234
+  offset: 0, 0
+  index: -1
+kot1
+  rotate: true
+  xy: 2, 40
+  size: 178, 410
+  orig: 178, 410
+  offset: 0, 0
+  index: -1
+kot2
+  rotate: true
+  xy: 1350, 434
+  size: 76, 384
+  orig: 76, 384
+  offset: 0, 0
+  index: -1
+l-abro
+  rotate: false
+  xy: 980, 210
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+l-astin1
+  rotate: true
+  xy: 1717, 251
+  size: 160, 219
+  orig: 160, 219
+  offset: 0, 0
+  index: -1
+l-astin2
+  rotate: false
+  xy: 1341, 128
+  size: 142, 138
+  orig: 142, 138
+  offset: 0, 0
+  index: -1
+l-dast1
+  rotate: true
+  xy: 1226, 151
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1
+l-dast2
+  rotate: false
+  xy: 864, 56
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+l-kafsh copy
+  rotate: true
+  xy: 1938, 245
+  size: 166, 104
+  orig: 166, 104
+  offset: 0, 0
+  index: -1
+l-shalvar1 copy
+  rotate: true
+  xy: 616, 136
+  size: 112, 198
+  orig: 112, 198
+  offset: 0, 0
+  index: -1
+l-shalvar2 copy
+  rotate: true
+  xy: 816, 138
+  size: 110, 162
+  orig: 110, 162
+  offset: 0, 0
+  index: -1
+lr-shalvar1
+  rotate: false
+  xy: 1598, 238
+  size: 117, 194
+  orig: 117, 194
+  offset: 0, 0
+  index: -1
+mardomak
+  rotate: false
+  xy: 97, 7
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+poshtmo
+  rotate: false
+  xy: 414, 37
+  size: 190, 181
+  orig: 190, 181
+  offset: 0, 0
+  index: -1
+r-abro
+  rotate: false
+  xy: 776, 104
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+r-astin1-2
+  rotate: false
+  xy: 1485, 104
+  size: 82, 162
+  orig: 82, 162
+  offset: 0, 0
+  index: -1
+r-astin2-2
+  rotate: true
+  xy: 1736, 413
+  size: 97, 237
+  orig: 97, 237
+  offset: 0, 0
+  index: -1
+r-dast1
+  rotate: false
+  xy: 1569, 148
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+r-dast1-2
+  rotate: false
+  xy: 776, 2
+  size: 86, 100
+  orig: 86, 100
+  offset: 0, 0
+  index: -1
+r-dast2
+  rotate: false
+  xy: 1863, 168
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+r-kafsh copy 2
+  rotate: false
+  xy: 606, 35
+  size: 168, 99
+  orig: 168, 99
+  offset: 0, 0
+  index: -1
+r-shalvar2
+  rotate: true
+  xy: 1053, 187
+  size: 87, 171
+  orig: 87, 171
+  offset: 0, 0
+  index: -1
+sefidy
+  rotate: false
+  xy: 2, 2
+  size: 93, 36
+  orig: 93, 36
+  offset: 0, 0
+  index: -1
+sibil
+  rotate: true
+  xy: 1975, 416
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+sorat
+  rotate: true
+  xy: 1350, 268
+  size: 164, 246
+  orig: 164, 246
+  offset: 0, 0
+  index: -1
+tishert
+  rotate: true
+  xy: 616, 250
+  size: 260, 435
+  orig: 260, 435
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+Godfather.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABROO1
+  rotate: false
+  xy: 1796, 340
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+ABROO2
+  rotate: false
+  xy: 1796, 302
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+CHESHM baste
+  rotate: false
+  xy: 762, 2
+  size: 139, 88
+  orig: 139, 88
+  offset: 0, 0
+  index: -1
+CHESHM nime
+  rotate: false
+  xy: 903, 2
+  size: 139, 88
+  orig: 139, 88
+  offset: 0, 0
+  index: -1
+KOLAH 1
+  rotate: false
+  xy: 1042, 315
+  size: 324, 195
+  orig: 324, 195
+  offset: 0, 0
+  index: -1
+KOLAH 2
+  rotate: true
+  xy: 2012, 441
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+Layer 32
+  rotate: false
+  xy: 565, 63
+  size: 195, 125
+  orig: 195, 125
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1872, 314
+  size: 138, 196
+  orig: 138, 196
+  offset: 0, 0
+  index: -1
+SAR
+  rotate: true
+  xy: 2, 20
+  size: 236, 295
+  orig: 236, 295
+  offset: 0, 0
+  index: -1
+SIBIL
+  rotate: false
+  xy: 484, 103
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+badan
+  rotate: true
+  xy: 581, 190
+  size: 320, 459
+  orig: 320, 459
+  offset: 0, 0
+  index: -1
+dast L 2
+  rotate: false
+  xy: 299, 2
+  size: 183, 133
+  orig: 183, 133
+  offset: 0, 0
+  index: -1
+dast L 3
+  rotate: false
+  xy: 1299, 205
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+dast L 4
+  rotate: false
+  xy: 1233, 86
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+dast L1
+  rotate: true
+  xy: 1625, 387
+  size: 123, 245
+  orig: 123, 245
+  offset: 0, 0
+  index: -1
+dast R 1
+  rotate: true
+  xy: 1368, 393
+  size: 117, 255
+  orig: 117, 255
+  offset: 0, 0
+  index: -1
+dast R 3
+  rotate: false
+  xy: 1086, 113
+  size: 145, 79
+  orig: 145, 79
+  offset: 0, 0
+  index: -1
+lab
+  rotate: false
+  xy: 1504, 269
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+mardomak R
+  rotate: false
+  xy: 941, 97
+  size: 143, 91
+  orig: 143, 91
+  offset: 0, 0
+  index: -1
+pa L 1
+  rotate: true
+  xy: 1042, 194
+  size: 119, 255
+  orig: 119, 255
+  offset: 0, 0
+  index: -1
+pa R 1
+  rotate: true
+  xy: 299, 137
+  size: 119, 264
+  orig: 119, 264
+  offset: 0, 0
+  index: -1
+pa R 2
+  rotate: true
+  xy: 1586, 293
+  size: 92, 208
+  orig: 92, 208
+  offset: 0, 0
+  index: -1
+pa R 3
+  rotate: false
+  xy: 762, 92
+  size: 177, 96
+  orig: 177, 96
+  offset: 0, 0
+  index: -1
+pa R 3 copy
+  rotate: false
+  xy: 762, 92
+  size: 177, 96
+  orig: 177, 96
+  offset: 0, 0
+  index: -1
+pa R 4
+  rotate: false
+  xy: 1086, 30
+  size: 136, 81
+  orig: 136, 81
+  offset: 0, 0
+  index: -1
+pa R 4 copy
+  rotate: false
+  xy: 1365, 213
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+pa r2
+  rotate: true
+  xy: 1368, 296
+  size: 95, 216
+  orig: 95, 216
+  offset: 0, 0
+  index: -1
+tofang
+  rotate: false
+  xy: 2, 258
+  size: 577, 252
+  orig: 577, 252
+  offset: 0, 0
+  index: -1

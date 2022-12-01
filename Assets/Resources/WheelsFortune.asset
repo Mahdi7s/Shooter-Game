@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5965e7a24b5ec9b4ea00216bbecfa46f, type: 3}
+  m_Name: WheelsFortune
+  m_EditorClassIdentifier: 
+  WheelsFortuneItems:
+  - _itemId: 1
+    _rewardType: 2
+    _itemAmount: 10
+  - _itemId: 2
+    _rewardType: 1
+    _itemAmount: 1
+  - _itemId: 3
+    _rewardType: 2
+    _itemAmount: 15
+  - _itemId: 4
+    _rewardType: 1
+    _itemAmount: 2
+  - _itemId: 5
+    _rewardType: 2
+    _itemAmount: 20
+  - _itemId: 6
+    _rewardType: 1
+    _itemAmount: 1
+  - _itemId: 7
+    _rewardType: 2
+    _itemAmount: 5
+  - _itemId: 8
+    _rewardType: 1
+    _itemAmount: 3

@@ -1,0 +1,160 @@
+
+Lat_zanjiri.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abroo
+  rotate: false
+  xy: 217, 18
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: false
+  xy: 2, 6
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+badan
+  rotate: true
+  xy: 113, 18
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 568, 82
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: true
+  xy: 707, 85
+  size: 41, 66
+  orig: 41, 66
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 393, 66
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: false
+  xy: 338, 40
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 287, 25
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 338, 2
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+kamar
+  rotate: false
+  xy: 775, 83
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+pa
+  rotate: false
+  xy: 217, 34
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+pa2
+  rotate: true
+  xy: 640, 64
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+pa3
+  rotate: true
+  xy: 393, 77
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+plk
+  rotate: false
+  xy: 974, 102
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: false
+  xy: 974, 76
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: false
+  xy: 707, 59
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+ran
+  rotate: true
+  xy: 487, 80
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+saed
+  rotate: true
+  xy: 840, 87
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: true
+  xy: 907, 90
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 2, 24
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+yaghe
+  rotate: false
+  xy: 291, 65
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+zangir
+  rotate: true
+  xy: 113, 102
+  size: 24, 176
+  orig: 24, 176
+  offset: 0, 0
+  index: -1

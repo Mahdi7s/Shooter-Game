@@ -1,0 +1,153 @@
+
+Kobra.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHeshm baste
+  rotate: false
+  xy: 605, 403
+  size: 127, 59
+  orig: 127, 59
+  offset: 0, 0
+  index: -1
+CHeshm nime
+  rotate: false
+  xy: 462, 404
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+Ketab baz
+  rotate: false
+  xy: 810, 803
+  size: 171, 211
+  orig: 171, 211
+  offset: 0, 0
+  index: -1
+Moo
+  rotate: true
+  xy: 462, 464
+  size: 71, 267
+  orig: 71, 267
+  offset: 0, 0
+  index: -1
+abro1
+  rotate: false
+  xy: 908, 628
+  size: 75, 30
+  orig: 75, 30
+  offset: 0, 0
+  index: -1
+abro2
+  rotate: true
+  xy: 142, 156
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 2, 438
+  size: 458, 576
+  orig: 458, 576
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: false
+  xy: 908, 660
+  size: 81, 141
+  orig: 81, 141
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: false
+  xy: 348, 165
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+cheshm
+  rotate: false
+  xy: 2, 2
+  size: 143, 70
+  orig: 143, 70
+  offset: 0, 0
+  index: -1
+dahan_happy
+  rotate: true
+  xy: 983, 964
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+dahan_sad
+  rotate: true
+  xy: 432, 390
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 731, 478
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 810, 559
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 983, 908
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: false
+  xy: 193, 298
+  size: 237, 138
+  orig: 237, 138
+  offset: 0, 0
+  index: -1
+ketab
+  rotate: false
+  xy: 2, 217
+  size: 189, 219
+  orig: 189, 219
+  offset: 0, 0
+  index: -1
+pa
+  rotate: true
+  xy: 193, 179
+  size: 117, 153
+  orig: 117, 153
+  offset: 0, 0
+  index: -1
+saed
+  rotate: false
+  xy: 810, 626
+  size: 96, 175
+  orig: 96, 175
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: false
+  xy: 2, 74
+  size: 138, 141
+  orig: 138, 141
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 462, 537
+  size: 346, 477
+  orig: 346, 477
+  offset: 0, 0
+  index: -1

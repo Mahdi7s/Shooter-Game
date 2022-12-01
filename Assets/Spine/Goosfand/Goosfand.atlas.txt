@@ -1,0 +1,160 @@
+
+Goosfand.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BADAN
+  rotate: false
+  xy: 2, 28
+  size: 144, 84
+  orig: 144, 84
+  offset: 0, 0
+  index: -1
+GARDAN
+  rotate: false
+  xy: 196, 112
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+GOOSH
+  rotate: true
+  xy: 2, 4
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+PA R 2-1
+  rotate: true
+  xy: 223, 74
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+SAR 1
+  rotate: false
+  xy: 2, 114
+  size: 144, 140
+  orig: 144, 140
+  offset: 0, 0
+  index: -1
+SAR2
+  rotate: false
+  xy: 148, 204
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+cheshm
+  rotate: true
+  xy: 108, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+mardomak
+  rotate: false
+  xy: 247, 243
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+pa L 2
+  rotate: false
+  xy: 148, 85
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+pa L 2-1
+  rotate: true
+  xy: 226, 150
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+pa L 2-2
+  rotate: false
+  xy: 186, 149
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+pa L 2-3
+  rotate: false
+  xy: 229, 110
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+pa L 3
+  rotate: false
+  xy: 228, 36
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+pa L1
+  rotate: true
+  xy: 207, 35
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+pa R 2-2
+  rotate: false
+  xy: 148, 143
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+pa R 2-3
+  rotate: false
+  xy: 207, 70
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+pa R1
+  rotate: false
+  xy: 148, 12
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+pa R2
+  rotate: false
+  xy: 148, 32
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+pa R3
+  rotate: false
+  xy: 188, 48
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+zangole
+  rotate: true
+  xy: 75, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+zangole band
+  rotate: false
+  xy: 229, 191
+  size: 16, 63
+  orig: 16, 63
+  offset: 0, 0
+  index: -1
+zangole band 2
+  rotate: false
+  xy: 185, 94
+  size: 9, 47
+  orig: 9, 47
+  offset: 0, 0
+  index: -1

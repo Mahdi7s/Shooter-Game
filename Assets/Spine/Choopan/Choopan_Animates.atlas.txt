@@ -1,0 +1,244 @@
+
+Choopan_Animates.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABROO L
+  rotate: true
+  xy: 601, 658
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+ABROO R
+  rotate: false
+  xy: 352, 231
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+ANGOSHT 2
+  rotate: false
+  xy: 618, 524
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+CHeshm
+  rotate: false
+  xy: 2, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+CHeshm baste
+  rotate: false
+  xy: 132, 7
+  size: 111, 27
+  orig: 111, 27
+  offset: 0, 0
+  index: -1
+CHeshm nime
+  rotate: true
+  xy: 601, 735
+  size: 118, 29
+  orig: 118, 29
+  offset: 0, 0
+  index: -1
+DAMAGH
+  rotate: false
+  xy: 875, 865
+  size: 98, 87
+  orig: 98, 87
+  offset: 0, 0
+  index: -1
+DAST R3
+  rotate: false
+  xy: 354, 855
+  size: 279, 122
+  orig: 279, 122
+  offset: 0, 0
+  index: -1
+NEY
+  rotate: false
+  xy: 354, 979
+  size: 403, 38
+  orig: 403, 38
+  offset: 0, 0
+  index: -1
+SAR
+  rotate: false
+  xy: 2, 195
+  size: 263, 254
+  orig: 263, 254
+  offset: 0, 0
+  index: -1
+SIBIL L
+  rotate: false
+  xy: 352, 267
+  size: 80, 136
+  orig: 80, 136
+  offset: 0, 0
+  index: -1
+angosht 1
+  rotate: false
+  xy: 992, 917
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+angosht 3
+  rotate: false
+  xy: 884, 954
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 2, 451
+  size: 350, 566
+  orig: 350, 566
+  offset: 0, 0
+  index: -1
+dast L 1
+  rotate: false
+  xy: 635, 867
+  size: 115, 110
+  orig: 115, 110
+  offset: 0, 0
+  index: -1
+dast L 2
+  rotate: false
+  xy: 448, 658
+  size: 151, 195
+  orig: 151, 195
+  offset: 0, 0
+  index: -1
+dast L 3
+  rotate: true
+  xy: 752, 865
+  size: 96, 121
+  orig: 96, 121
+  offset: 0, 0
+  index: -1
+dast L 4
+  rotate: false
+  xy: 2, 36
+  size: 258, 157
+  orig: 258, 157
+  offset: 0, 0
+  index: -1
+dast R 2
+  rotate: false
+  xy: 267, 230
+  size: 83, 219
+  orig: 83, 219
+  offset: 0, 0
+  index: -1
+dast R1
+  rotate: false
+  xy: 267, 148
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+not 1
+  rotate: true
+  xy: 262, 51
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+not 2
+  rotate: false
+  xy: 992, 958
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+not 3
+  rotate: false
+  xy: 262, 75
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+not 4
+  rotate: true
+  xy: 411, 240
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+not 5
+  rotate: false
+  xy: 618, 487
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+pa L 1
+  rotate: true
+  xy: 618, 568
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+pa R 4
+  rotate: true
+  xy: 618, 568
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+pa L 3
+  rotate: true
+  xy: 448, 567
+  size: 89, 168
+  orig: 89, 168
+  offset: 0, 0
+  index: -1
+pa L 4
+  rotate: true
+  xy: 447, 483
+  size: 82, 169
+  orig: 82, 169
+  offset: 0, 0
+  index: -1
+pa R 1
+  rotate: false
+  xy: 354, 405
+  size: 91, 166
+  orig: 91, 166
+  offset: 0, 0
+  index: -1
+pa R 2
+  rotate: false
+  xy: 354, 573
+  size: 92, 280
+  orig: 92, 280
+  offset: 0, 0
+  index: -1
+pa-L-2
+  rotate: false
+  xy: 447, 408
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+pa-L-zir
+  rotate: false
+  xy: 585, 422
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+sibil R
+  rotate: true
+  xy: 759, 963
+  size: 54, 123
+  orig: 54, 123
+  offset: 0, 0
+  index: -1

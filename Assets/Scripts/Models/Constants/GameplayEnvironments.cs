@@ -1,0 +1,36 @@
+namespace Models.Constants
+{
+    public enum GameplayEnvironments
+    {
+        Undefined = 0,
+        sfx_birds1 = -1177109305,
+        sfx_birds2 = -1177109304,
+        sfx_birds3 = -1177109303,
+        sfx_horn1 = -1177109302,
+        sfx_horn2 = -1177109301,
+        sfx_cars1 = -1177109300,
+        sfx_cars2 = -1177109299,
+        sfx_cars3 = -1177109298,
+        sfx_cars4 = -1177109297,
+        sfx_streets1 = -1177109297,
+        sfx_streets2 = -1177109296,
+        sfx_streets3 = -1177109295,
+        sfx_streets4 = -1177109294,
+        sfx_streets5 = -1177109293,
+        sfx_streets6 = -1177109292,
+        sfx_rooster1 = -1177109291,
+        sfx_rooster2 = -1177109290,
+        sfx_rooster3 = -1177109289,
+        sfx_rooster4 = -1177109288,
+        sfx_rooster5 = -1177109287,
+        sfx_kids1 = -1177109286,
+        sfx_kids2 = -1177109285,
+        sfx_kids3 = -1177109284,
+        sfx_kids4 = -1177109283,
+        sfx_kids5 = -1177109282,
+        sfx_alley1 = -1177109281,
+        sfx_alley2 = -1177109280,
+        sfx_alley3 = -1177109279,
+        sfx_alley4 = -1177109278,
+    }
+}

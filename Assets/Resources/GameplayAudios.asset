@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e73554b88aa1ad048af8cce6cef7b79b, type: 3}
+  m_Name: GameplayAudios
+  m_EditorClassIdentifier: 
+  GameplayAudios:
+  - _chapterNumber: 1
+    _missionNumber: 0
+    _music: -999570713
+    _environments: c7bcd6b9c8bcd6b9c9bcd6b9ccbcd6b9cdbcd6b9cebcd6b9cabcd6b9cbbcd6b9cfbcd6b9d0bcd6b9d1bcd6b9
+  - _chapterNumber: 2
+    _missionNumber: 0
+    _music: -999570714
+    _environments: c7bcd6b9c8bcd6b9c9bcd6b9ccbcd6b9cdbcd6b9cebcd6b9cabcd6b9cbbcd6b9d2bcd6b9d3bcd6b9d4bcd6b9
+  - _chapterNumber: 3
+    _missionNumber: 0
+    _music: -999570715
+    _environments: cfbcd6b9d0bcd6b9d1bcd6b9d2bcd6b9d3bcd6b9d4bcd6b9
+  - _chapterNumber: 4
+    _missionNumber: 0
+    _music: -999570714
+    _environments: d5bcd6b9d6bcd6b9d7bcd6b9d8bcd6b9d9bcd6b9c7bcd6b9c8bcd6b9c9bcd6b9
+  - _chapterNumber: 5
+    _missionNumber: 0
+    _music: -999570713
+    _environments: c7bcd6b9c8bcd6b9c9bcd6b9dabcd6b9dbbcd6b9dcbcd6b9ddbcd6b9debcd6b9

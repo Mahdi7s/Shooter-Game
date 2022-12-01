@@ -1,0 +1,244 @@
+
+Pire mard.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eynak
+  rotate: true
+  xy: 362, 89
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+abroo
+  rotate: true
+  xy: 490, 189
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: true
+  xy: 332, 36
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+anten
+  rotate: true
+  xy: 2, 15
+  size: 5, 50
+  orig: 5, 50
+  offset: 0, 0
+  index: -1
+asa
+  rotate: false
+  xy: 141, 75
+  size: 41, 179
+  orig: 41, 179
+  offset: 0, 0
+  index: -1
+badan
+  rotate: true
+  xy: 184, 95
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 262, 120
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: true
+  xy: 453, 159
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+charkh
+  rotate: false
+  xy: 184, 152
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+charkh_center
+  rotate: true
+  xy: 169, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+charkh_kochak
+  rotate: false
+  xy: 272, 34
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+charkh_pare
+  rotate: false
+  xy: 363, 174
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 262, 145
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: true
+  xy: 490, 213
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+gardan
+  rotate: false
+  xy: 350, 69
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 305, 37
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 195, 8
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: true
+  xy: 451, 184
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+kamar
+  rotate: false
+  xy: 398, 139
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+kot
+  rotate: true
+  xy: 274, 143
+  size: 23, 122
+  orig: 23, 122
+  offset: 0, 0
+  index: -1
+kot2
+  rotate: true
+  xy: 2, 22
+  size: 48, 124
+  orig: 48, 124
+  offset: 0, 0
+  index: -1
+pa
+  rotate: false
+  xy: 128, 2
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+parcham
+  rotate: false
+  xy: 262, 93
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+paye
+  rotate: false
+  xy: 169, 27
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+paye2
+  rotate: false
+  xy: 205, 27
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+plk
+  rotate: false
+  xy: 260, 68
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: false
+  xy: 317, 93
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: false
+  xy: 305, 68
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+ran
+  rotate: true
+  xy: 184, 63
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+saed
+  rotate: true
+  xy: 453, 135
+  size: 22, 56
+  orig: 22, 56
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: true
+  xy: 326, 118
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+sandali
+  rotate: false
+  xy: 2, 72
+  size: 137, 182
+  orig: 137, 182
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 274, 168
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+yaghe
+  rotate: false
+  xy: 241, 23
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1

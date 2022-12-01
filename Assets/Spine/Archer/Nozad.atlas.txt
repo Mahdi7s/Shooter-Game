@@ -1,0 +1,167 @@
+
+Nozad.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abroo
+  rotate: false
+  xy: 54, 2
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: false
+  xy: 2, 2
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 273, 307
+  size: 180, 198
+  orig: 180, 198
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: false
+  xy: 939, 256
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 823, 97
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: false
+  xy: 441, 33
+  size: 182, 94
+  orig: 182, 94
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 746, 93
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 625, 24
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+hand2_shast
+  rotate: true
+  xy: 730, 38
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+kamar
+  rotate: false
+  xy: 441, 129
+  size: 188, 134
+  orig: 188, 134
+  offset: 0, 0
+  index: -1
+kamar2
+  rotate: true
+  xy: 631, 112
+  size: 151, 113
+  orig: 151, 113
+  offset: 0, 0
+  index: -1
+kise
+  rotate: true
+  xy: 2, 27
+  size: 188, 244
+  orig: 188, 244
+  offset: 0, 0
+  index: -1
+kolooche
+  rotate: true
+  xy: 273, 180
+  size: 125, 156
+  orig: 125, 156
+  offset: 0, 0
+  index: -1
+pa
+  rotate: true
+  xy: 847, 175
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+pestunak
+  rotate: false
+  xy: 248, 38
+  size: 191, 140
+  orig: 191, 140
+  offset: 0, 0
+  index: -1
+plk
+  rotate: false
+  xy: 708, 392
+  size: 229, 113
+  orig: 229, 113
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: false
+  xy: 455, 265
+  size: 229, 113
+  orig: 229, 113
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: false
+  xy: 708, 277
+  size: 229, 113
+  orig: 229, 113
+  offset: 0, 0
+  index: -1
+ran
+  rotate: false
+  xy: 746, 158
+  size: 99, 117
+  orig: 99, 117
+  offset: 0, 0
+  index: -1
+saed
+  rotate: false
+  xy: 939, 388
+  size: 83, 117
+  orig: 83, 117
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 2, 217
+  size: 269, 288
+  orig: 269, 288
+  offset: 0, 0
+  index: -1
+sar_kise
+  rotate: false
+  xy: 939, 172
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+yaghe
+  rotate: false
+  xy: 455, 380
+  size: 251, 125
+  orig: 251, 125
+  offset: 0, 0
+  index: -1

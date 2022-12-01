@@ -1,0 +1,104 @@
+
+Pesar.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+badan
+  rotate: false
+  xy: 85, 58
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 180, 70
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: false
+  xy: 65, 2
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 142, 9
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 177, 41
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 136, 68
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: false
+  xy: 2, 8
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+moshak
+  rotate: false
+  xy: 180, 100
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+pa
+  rotate: false
+  xy: 142, 28
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+ran
+  rotate: false
+  xy: 123, 13
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+saed
+  rotate: false
+  xy: 233, 62
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: false
+  xy: 159, 30
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 2, 44
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+shalvar
+  rotate: false
+  xy: 86, 14
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1

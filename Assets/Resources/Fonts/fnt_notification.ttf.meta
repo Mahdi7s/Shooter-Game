@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ea73464e8200e6240ba648f04803e3b8
+timeCreated: 1499245276
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Traffic
+  fontNames:
+  - B Traffic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ff4401301773e3e41a192f5be66b9eec, type: 3}
+  - {fileID: 12800000, guid: 25d164f41ebd31c4cacce54f44276339, type: 3}
+  - {fileID: 12800000, guid: 457b8b954815afa428b409efa0efc5bd, type: 3}
+  - {fileID: 12800000, guid: 1b16de170523647449c014238908159d, type: 3}
+  - {fileID: 12800000, guid: 808fee179c0e1a74893c6d1259ab7c93, type: 3}
+  - {fileID: 12800000, guid: 4811c1b7ed08ff640afc9db2d969a7d6, type: 3}
+  - {fileID: 12800000, guid: 4c27d0c9a9030a94d84d4c2bd3ba4096, type: 3}
+  - {fileID: 12800000, guid: a3e93a4a06b10894a979b8029080f295, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

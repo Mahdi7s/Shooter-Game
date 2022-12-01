@@ -1,0 +1,223 @@
+
+Vasvasi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABRO L
+  rotate: false
+  xy: 785, 138
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+ABROO R
+  rotate: false
+  xy: 300, 3
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+BADAN 1
+  rotate: false
+  xy: 666, 254
+  size: 389, 252
+  orig: 389, 252
+  offset: 0, 0
+  index: -1
+BADAN 2
+  rotate: false
+  xy: 299, 225
+  size: 365, 281
+  orig: 365, 281
+  offset: 0, 0
+  index: -1
+CHESH O ABROO
+  rotate: false
+  xy: 2, 6
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+CHESH O ABROO 1
+  rotate: false
+  xy: 151, 6
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+CHESH O ABROO 2
+  rotate: false
+  xy: 1507, 217
+  size: 147, 87
+  orig: 147, 87
+  offset: 0, 0
+  index: -1
+CHESH O ABROO 3
+  rotate: false
+  xy: 1358, 214
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+DAST MAL
+  rotate: false
+  xy: 1912, 315
+  size: 114, 191
+  orig: 114, 191
+  offset: 0, 0
+  index: -1
+KIF
+  rotate: true
+  xy: 1057, 308
+  size: 198, 359
+  orig: 198, 359
+  offset: 0, 0
+  index: -1
+LAB 2
+  rotate: false
+  xy: 726, 141
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+LAB 2 copy
+  rotate: false
+  xy: 978, 187
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+Layer56
+  rotate: true
+  xy: 1230, 106
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1
+SAR1
+  rotate: true
+  xy: 1418, 306
+  size: 200, 322
+  orig: 200, 322
+  offset: 0, 0
+  index: -1
+SHAL 1
+  rotate: false
+  xy: 2, 98
+  size: 295, 408
+  orig: 295, 408
+  offset: 0, 0
+  index: -1
+SHAL 2
+  rotate: true
+  xy: 299, 131
+  size: 92, 341
+  orig: 92, 341
+  offset: 0, 0
+  index: -1
+dast  L1
+  rotate: true
+  xy: 467, 27
+  size: 102, 154
+  orig: 102, 154
+  offset: 0, 0
+  index: -1
+dast  L2
+  rotate: false
+  xy: 1742, 327
+  size: 168, 179
+  orig: 168, 179
+  offset: 0, 0
+  index: -1
+dast L  3
+  rotate: false
+  xy: 1358, 124
+  size: 142, 88
+  orig: 142, 88
+  offset: 0, 0
+  index: -1
+dast L 3
+  rotate: false
+  xy: 899, 179
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+dast L 4
+  rotate: false
+  xy: 300, 29
+  size: 165, 100
+  orig: 165, 100
+  offset: 0, 0
+  index: -1
+dast R 1
+  rotate: false
+  xy: 1230, 178
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+dast R 2
+  rotate: false
+  xy: 1057, 145
+  size: 171, 161
+  orig: 171, 161
+  offset: 0, 0
+  index: -1
+lab 3
+  rotate: true
+  xy: 684, 53
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+pa  R3
+  rotate: false
+  xy: 623, 37
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+pa 1 copy
+  rotate: false
+  xy: 1656, 197
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+pa 3
+  rotate: true
+  xy: 642, 121
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+pa 4
+  rotate: false
+  xy: 838, 153
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+pa R 1
+  rotate: true
+  xy: 790, 180
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+pa R 4
+  rotate: false
+  xy: 368, 2
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+pa R2
+  rotate: true
+  xy: 666, 182
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1

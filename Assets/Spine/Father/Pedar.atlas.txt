@@ -1,0 +1,251 @@
+
+Pedar.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fiber
+  rotate: true
+  xy: 784, 491
+  size: 263, 58
+  orig: 263, 58
+  offset: 0, 0
+  index: -1
+Fiber1
+  rotate: false
+  xy: 1118, 488
+  size: 263, 58
+  orig: 263, 58
+  offset: 0, 0
+  index: -1
+Fiber2
+  rotate: false
+  xy: 1576, 754
+  size: 263, 58
+  orig: 263, 58
+  offset: 0, 0
+  index: -1
+HandPen
+  rotate: false
+  xy: 1163, 892
+  size: 425, 130
+  orig: 425, 130
+  offset: 0, 0
+  index: -1
+Hand_R_Background
+  rotate: false
+  xy: 367, 11
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+Hand_R_Forground
+  rotate: true
+  xy: 1032, 499
+  size: 269, 84
+  orig: 269, 84
+  offset: 0, 0
+  index: -1
+PenBack
+  rotate: true
+  xy: 410, 509
+  size: 245, 372
+  orig: 245, 372
+  offset: 0, 0
+  index: -1
+PenFront
+  rotate: true
+  xy: 1163, 719
+  size: 171, 322
+  orig: 171, 322
+  offset: 0, 0
+  index: -1
+Stool
+  rotate: false
+  xy: 788, 43
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+abroo
+  rotate: false
+  xy: 1841, 766
+  size: 75, 46
+  orig: 75, 46
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: false
+  xy: 1624, 450
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+badan
+  rotate: true
+  xy: 2, 11
+  size: 422, 363
+  orig: 422, 363
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 410, 332
+  size: 175, 293
+  orig: 175, 293
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: false
+  xy: 615, 64
+  size: 171, 266
+  orig: 171, 266
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 421, 2
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: false
+  xy: 1383, 484
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+ghablame
+  rotate: false
+  xy: 1626, 607
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 705, 332
+  size: 132, 154
+  orig: 132, 154
+  offset: 0, 0
+  index: -1
+hand01
+  rotate: false
+  xy: 1780, 598
+  size: 132, 154
+  orig: 132, 154
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 1508, 450
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: false
+  xy: 1626, 500
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+kafsh2
+  rotate: true
+  xy: 1921, 823
+  size: 199, 87
+  orig: 199, 87
+  offset: 0, 0
+  index: -1
+kamar
+  rotate: false
+  xy: 410, 756
+  size: 426, 266
+  orig: 426, 266
+  offset: 0, 0
+  index: -1
+plk
+  rotate: true
+  xy: 1374, 562
+  size: 155, 124
+  orig: 155, 124
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: true
+  xy: 1500, 570
+  size: 155, 124
+  orig: 155, 124
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: true
+  xy: 788, 175
+  size: 155, 124
+  orig: 155, 124
+  offset: 0, 0
+  index: -1
+ran
+  rotate: true
+  xy: 1590, 814
+  size: 208, 329
+  orig: 208, 329
+  offset: 0, 0
+  index: -1
+ran_kham
+  rotate: false
+  xy: 367, 39
+  size: 246, 291
+  orig: 246, 291
+  offset: 0, 0
+  index: -1
+saed
+  rotate: false
+  xy: 844, 511
+  size: 186, 257
+  orig: 186, 257
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: true
+  xy: 1118, 548
+  size: 169, 254
+  orig: 169, 254
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 838, 770
+  size: 323, 252
+  orig: 323, 252
+  offset: 0, 0
+  index: -1
+sebil
+  rotate: false
+  xy: 1778, 509
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+sebil2
+  rotate: true
+  xy: 1487, 727
+  size: 163, 87
+  orig: 163, 87
+  offset: 0, 0
+  index: -1
+shenel
+  rotate: false
+  xy: 2, 435
+  size: 406, 587
+  orig: 406, 587
+  offset: 0, 0
+  index: -1
+zir pa
+  rotate: false
+  xy: 367, 368
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1

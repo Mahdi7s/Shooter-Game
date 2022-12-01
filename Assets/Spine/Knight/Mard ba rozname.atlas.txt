@@ -1,0 +1,188 @@
+
+Mard ba rozname.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eynak
+  rotate: false
+  xy: 550, 47
+  size: 204, 74
+  orig: 204, 74
+  offset: 0, 0
+  index: -1
+Roznameh
+  rotate: false
+  xy: 2, 26
+  size: 352, 479
+  orig: 352, 479
+  offset: 0, 0
+  index: -1
+Roznameh2
+  rotate: true
+  xy: 550, 393
+  size: 112, 445
+  orig: 112, 445
+  offset: 0, 0
+  index: -1
+abroo
+  rotate: false
+  xy: 756, 69
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: false
+  xy: 1336, 171
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 356, 118
+  size: 192, 387
+  orig: 192, 387
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 1368, 307
+  size: 76, 193
+  orig: 76, 193
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: true
+  xy: 1673, 371
+  size: 74, 196
+  orig: 74, 196
+  offset: 0, 0
+  index: -1
+bini
+  rotate: false
+  xy: 1246, 141
+  size: 88, 95
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: true
+  xy: 1192, 137
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1661, 285
+  size: 84, 140
+  orig: 84, 140
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 1661, 201
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: false
+  xy: 994, 150
+  size: 196, 107
+  orig: 196, 107
+  offset: 0, 0
+  index: -1
+kot
+  rotate: true
+  xy: 1673, 447
+  size: 58, 348
+  orig: 58, 348
+  offset: 0, 0
+  index: -1
+kot2
+  rotate: true
+  xy: 997, 371
+  size: 134, 369
+  orig: 134, 369
+  offset: 0, 0
+  index: -1
+moo
+  rotate: false
+  xy: 817, 149
+  size: 175, 242
+  orig: 175, 242
+  offset: 0, 0
+  index: -1
+pa
+  rotate: true
+  xy: 1368, 385
+  size: 120, 303
+  orig: 120, 303
+  offset: 0, 0
+  index: -1
+plk
+  rotate: true
+  xy: 1259, 238
+  size: 131, 96
+  orig: 131, 96
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: true
+  xy: 1563, 252
+  size: 131, 96
+  orig: 131, 96
+  offset: 0, 0
+  index: -1
+ran
+  rotate: true
+  xy: 994, 259
+  size: 110, 263
+  orig: 110, 263
+  offset: 0, 0
+  index: -1
+saed
+  rotate: true
+  xy: 1357, 225
+  size: 80, 188
+  orig: 80, 188
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: true
+  xy: 356, 36
+  size: 80, 192
+  orig: 80, 192
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 550, 123
+  size: 265, 268
+  orig: 265, 268
+  offset: 0, 0
+  index: -1
+sebil
+  rotate: true
+  xy: 1803, 278
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+sebil2
+  rotate: false
+  xy: 1871, 375
+  size: 151, 70
+  orig: 151, 70
+  offset: 0, 0
+  index: -1

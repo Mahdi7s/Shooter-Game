@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f41391fdeb89c444b38b089f8eac57b, type: 3}
+  m_Name: ResourceTypeDataSet
+  m_EditorClassIdentifier: 
+  ResourceTypes:
+  - _type: Sprite
+    _extension: jpg|png|jpeg
+    _prefix: spr|icons
+  - _type: GameObject
+    _extension: prefab
+    _prefix: pre
+  - _type: Animation
+    _extension: anim
+    _prefix: anim
+  - _type: RuntimeAnimatorController
+    _extension: controller
+    _prefix: ctrl
+  - _type: AudioClip
+    _extension: mp3|wav
+    _prefix: sfx
+  - _type: Font
+    _extension: ttf
+    _prefix: fnt
+  - _type: Shader
+    _extension: shader
+    _prefix: shd
+  - _type: Material
+    _extension: mat
+    _prefix: mat

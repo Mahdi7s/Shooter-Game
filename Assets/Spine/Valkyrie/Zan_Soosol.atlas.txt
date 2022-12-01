@@ -1,0 +1,153 @@
+
+Zan_Soosol.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+badan
+  rotate: true
+  xy: 2, 220
+  size: 288, 584
+  orig: 288, 584
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 1377, 411
+  size: 97, 221
+  orig: 97, 221
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: true
+  xy: 588, 223
+  size: 77, 198
+  orig: 77, 198
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1995, 486
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: true
+  xy: 1078, 244
+  size: 109, 55
+  orig: 109, 55
+  offset: 0, 0
+  index: -1
+eynak
+  rotate: true
+  xy: 540, 48
+  size: 170, 84
+  orig: 170, 84
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 2, 16
+  size: 202, 372
+  orig: 202, 372
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 626, 21
+  size: 66, 116
+  orig: 66, 116
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: false
+  xy: 376, 69
+  size: 162, 149
+  orig: 162, 149
+  offset: 0, 0
+  index: -1
+pa
+  rotate: true
+  xy: 1136, 406
+  size: 102, 239
+  orig: 102, 239
+  offset: 0, 0
+  index: -1
+plk
+  rotate: false
+  xy: 626, 156
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: false
+  xy: 626, 89
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: false
+  xy: 376, 2
+  size: 133, 65
+  orig: 133, 65
+  offset: 0, 0
+  index: -1
+ran
+  rotate: true
+  xy: 1600, 392
+  size: 116, 191
+  orig: 116, 191
+  offset: 0, 0
+  index: -1
+rosari
+  rotate: false
+  xy: 881, 355
+  size: 253, 153
+  orig: 253, 153
+  offset: 0, 0
+  index: -1
+rosari1
+  rotate: true
+  xy: 1136, 349
+  size: 55, 181
+  orig: 55, 181
+  offset: 0, 0
+  index: -1
+rosari2
+  rotate: false
+  xy: 788, 230
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+rosari3
+  rotate: true
+  xy: 1793, 382
+  size: 36, 188
+  orig: 36, 188
+  offset: 0, 0
+  index: -1
+saed
+  rotate: true
+  xy: 1793, 420
+  size: 88, 200
+  orig: 88, 200
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: true
+  xy: 881, 269
+  size: 84, 195
+  orig: 84, 195
+  offset: 0, 0
+  index: -1
+sar
+  rotate: true
+  xy: 588, 302
+  size: 206, 291
+  orig: 206, 291
+  offset: 0, 0
+  index: -1

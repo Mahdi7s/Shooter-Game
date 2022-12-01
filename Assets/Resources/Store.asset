@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2e8c240e58f74f479bbf0df528bd82a, type: 3}
+  m_Name: Store
+  m_EditorClassIdentifier: 
+  StoreItems:
+  - _id: 1
+    _order: 1
+    _coinAmount: 100
+    _cost: 1500
+    _packageType: 4
+  - _id: 2
+    _order: 2
+    _coinAmount: 220
+    _cost: 2900
+    _packageType: 5
+  - _id: 3
+    _order: 3
+    _coinAmount: 480
+    _cost: 5900
+    _packageType: 6
+  - _id: 4
+    _order: 4
+    _coinAmount: 1100
+    _cost: 11900
+    _packageType: 7

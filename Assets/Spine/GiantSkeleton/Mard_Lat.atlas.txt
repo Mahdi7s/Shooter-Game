@@ -1,0 +1,174 @@
+
+Mard_Lat.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zir
+  rotate: false
+  xy: 2, 255
+  size: 300, 230
+  orig: 300, 230
+  offset: 0, 0
+  index: -1
+abroo
+  rotate: false
+  xy: 2, 2
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: false
+  xy: 695, 60
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 2, 487
+  size: 421, 530
+  orig: 421, 530
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 425, 412
+  size: 203, 290
+  orig: 203, 290
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: true
+  xy: 748, 604
+  size: 166, 261
+  orig: 166, 261
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 541, 48
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: false
+  xy: 406, 15
+  size: 133, 64
+  orig: 133, 64
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 690, 268
+  size: 160, 132
+  orig: 160, 132
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 852, 247
+  size: 131, 153
+  orig: 131, 153
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: true
+  xy: 296, 4
+  size: 213, 108
+  orig: 213, 108
+  offset: 0, 0
+  index: -1
+kolah
+  rotate: false
+  xy: 425, 817
+  size: 322, 200
+  orig: 322, 200
+  offset: 0, 0
+  index: -1
+kolah_roo
+  rotate: false
+  xy: 425, 617
+  size: 321, 198
+  orig: 321, 198
+  offset: 0, 0
+  index: -1
+pa
+  rotate: true
+  xy: 406, 239
+  size: 171, 205
+  orig: 171, 205
+  offset: 0, 0
+  index: -1
+parche
+  rotate: false
+  xy: 304, 219
+  size: 100, 266
+  orig: 100, 266
+  offset: 0, 0
+  index: -1
+parche2
+  rotate: false
+  xy: 962, 467
+  size: 45, 135
+  orig: 45, 135
+  offset: 0, 0
+  index: -1
+plk
+  rotate: true
+  xy: 568, 75
+  size: 162, 125
+  orig: 162, 125
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: true
+  xy: 695, 104
+  size: 162, 125
+  orig: 162, 125
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: false
+  xy: 822, 120
+  size: 162, 125
+  orig: 162, 125
+  offset: 0, 0
+  index: -1
+ran
+  rotate: false
+  xy: 406, 81
+  size: 160, 156
+  orig: 160, 156
+  offset: 0, 0
+  index: -1
+saed
+  rotate: true
+  xy: 2, 35
+  size: 218, 292
+  orig: 218, 292
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: true
+  xy: 717, 402
+  size: 200, 243
+  orig: 200, 243
+  offset: 0, 0
+  index: -1
+sar
+  rotate: true
+  xy: 749, 772
+  size: 245, 260
+  orig: 245, 260
+  offset: 0, 0
+  index: -1
+sebil
+  rotate: true
+  xy: 613, 240
+  size: 170, 75
+  orig: 170, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Dokhtar_Bache.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abroo
+  rotate: true
+  xy: 326, 63
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+abroo2
+  rotate: false
+  xy: 472, 85
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+badan
+  rotate: false
+  xy: 292, 84
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+bazoo
+  rotate: true
+  xy: 149, 25
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+bazoo2
+  rotate: true
+  xy: 202, 38
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+daman
+  rotate: false
+  xy: 202, 70
+  size: 88, 56
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 337, 64
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+eye_sefid
+  rotate: false
+  xy: 97, 31
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 290, 45
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 453, 78
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+kafsh
+  rotate: false
+  xy: 27, 4
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+khers badan
+  rotate: false
+  xy: 2, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+khers dast
+  rotate: true
+  xy: 338, 83
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+khers dast2
+  rotate: true
+  xy: 369, 82
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+khers pa2
+  rotate: true
+  xy: 399, 81
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+khers sar
+  rotate: false
+  xy: 249, 38
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+khrs pa
+  rotate: false
+  xy: 61, 2
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+moo
+  rotate: false
+  xy: 97, 56
+  size: 103, 70
+  orig: 103, 70
+  offset: 0, 0
+  index: -1
+pa
+  rotate: true
+  xy: 292, 66
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+plk
+  rotate: false
+  xy: 338, 96
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+plk2
+  rotate: false
+  xy: 393, 96
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+plk3
+  rotate: false
+  xy: 448, 96
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+saed
+  rotate: false
+  xy: 75, 3
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+saed2
+  rotate: true
+  xy: 429, 77
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+sar
+  rotate: false
+  xy: 2, 30
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1

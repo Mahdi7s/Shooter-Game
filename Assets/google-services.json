@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "420981004302",
+    "firebase_url": "https://pen-gun-4523482.firebaseio.com",
+    "project_id": "pen-gun-4523482",
+    "storage_bucket": "pen-gun-4523482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420981004302:android:25301840e16eac77",
+        "android_client_info": {
+          "package_name": "com.trixmen.pengun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420981004302-rmlfqhvkfu367s107rssj7hk7lcfq0p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trixmen.pengun",
+            "certificate_hash": "43cbb2fbe896c453ae405a45bee6f5d28da17534"
+          }
+        },
+        {
+          "client_id": "420981004302-octnva10is0j39034rhk2ra4bfdtahq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC79Zycf7SH8mUYtG5mHUqbNyhTw6TwHJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420981004302-octnva10is0j39034rhk2ra4bfdtahq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

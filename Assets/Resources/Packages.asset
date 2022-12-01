@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ce27b065a8611e4d9de1c356d12c8c3, type: 3}
+  m_Name: Packages
+  m_EditorClassIdentifier: 
+  Packages:
+  - _packageType: 1
+    _sku: Booster01
+    _isConsumable: 0
+  - _packageType: 2
+    _sku: Booster02
+    _isConsumable: 0
+  - _packageType: 3
+    _sku: Weapon01
+    _isConsumable: 0
+  - _packageType: 4
+    _sku: CoinPackage01
+    _isConsumable: 1
+  - _packageType: 5
+    _sku: CoinPackage02
+    _isConsumable: 1
+  - _packageType: 6
+    _sku: CoinPackage03
+    _isConsumable: 1
+  - _packageType: 7
+    _sku: CoinPackage04
+    _isConsumable: 1
